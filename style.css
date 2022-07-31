@@ -1,0 +1,138 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h2{
+    font-weight: normal;
+    font-size: 35px;
+    color: #202428;
+}
+.hello{
+    margin-bottom: 0px;
+}
+.name-highlight{
+    color: #ec4c79f8;
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 0px;
+}
+.half-width-1st{
+    width: 50%;
+    padding-top: 150px;
+    padding-left: 200px;
+}
+.half-width-2nd{
+    width: 50%;
+    padding-top: 60px;
+    padding-right: 165px;
+}
+.half-width-2nd img{
+    width: 108%;
+}
+.top-banner{
+    display: flex;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 35px;
+    background-color: #ec4c79f8;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.about{
+    margin-bottom: 50px;
+    color: #6B6B6B;
+}
+.biography{
+    display: flex;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+}
+.biography-1st{
+    width: 50%;
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.biography-1st img{
+    width: 100%;
+}
+.biography-2nd{
+    width: 50%;
+    padding-top: 350px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.latest-work{
+    padding-left: 120px;
+}
+.latest-work img{
+    width: 300px;
+    padding: 20px;
+}
+.my-latest-work{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+    margin-bottom: 100px;
+}
+.client{
+    padding-left: 500px;
+    text-align: center;
+    width: 300px;
+}
+.client-are-say{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.bruce-moccy{
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.founder{
+    font-size: 13px;
+    color:#6B6B6B;
+    margin-top: 0;;
+}
+.lorem-ipsum{
+    color: #202428;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contact-bar{
+    text-align: center;
+    padding: 20px 150px 40px 150px;
+    background-color: #ec4c79f8;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-bottom: 100px;
+}
+.leave-me{
+    font-size: 13px;
+    color: white;
+}
+.gmail{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+.copy-right{
+    text-align: center;
+    color:#6B6B6B;
+    font-size: 13px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
