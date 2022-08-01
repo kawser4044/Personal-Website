@@ -70,11 +70,12 @@ h2{
     padding-right: 100px;
 }
 .latest-work{
-    padding-left: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 .latest-work img{
     width: 300px;
-    padding: 20px;
 }
 .my-latest-work{
     text-align: center;
@@ -89,9 +90,7 @@ h2{
     margin-bottom: 100px;
 }
 .client{
-    padding-left: 500px;
     text-align: center;
-    width: 300px;
 }
 .client-are-say{
     margin-top: 100px;
@@ -106,10 +105,15 @@ h2{
     color:#6B6B6B;
     margin-top: 0;;
 }
-.lorem-ipsum{
+.client> p{
     color: #202428;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+.contact-bar-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .contact-bar{
     text-align: center;
@@ -117,8 +121,6 @@ h2{
     background-color: #ec4c79f8;
     width: 300px;
     border-radius: 10px;
-    margin-left: 350px;
-    margin-bottom: 100px;
 }
 .leave-me{
     font-size: 13px;
